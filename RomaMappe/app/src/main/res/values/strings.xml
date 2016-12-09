@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RomaMappe</string>
+    <string name="title_activity_maps">Roma Mappe</string>
+
+    <string name="selez_tipo">Scegli cosa aggiungere</string>
+    <string-array name="tipi_arrays">
+        <item>Generici</item>
+        <item>Scuole</item>
+        <item>Cassonetti</item>
+        <item>Lampioni</item>
+        <item>Tombini</item>
+    </string-array>
+
+</resources>
